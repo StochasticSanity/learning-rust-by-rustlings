@@ -1,4 +1,19 @@
-# Exercise to Book Chapter mapping
+This is a repository of the code I wrote/edited while learning the rustlings tool to learn rust.
+
+- [Rustlings](https://github.com/rust-lang/rustlings/)
+
+## Other Learning Resources
+- [Rust-By-Example](https://doc.rust-lang.org/stable/rust-by-example/)
+- [Rust Book](https://doc.rust-lang.org/book/)
+- [The Cargo Book](https://doc.rust-lang.org/cargo/)
+- [Even More](https://www.rust-lang.org/learn)
+
+
+[Original Authors](https://github.com/rust-lang/rustlings/blob/main/AUTHORS.md)
+[Original License](https://github.com/rust-lang/rustlings/blob/main/LICENSE)
+## Exercise to Book Chapter mapping
+
+[Rust Language Book](https://doc.rust-lang.org/book/second-edition/)
 
 | Exercise               | Book Chapter |
 |------------------------|--------------|
